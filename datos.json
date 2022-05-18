@@ -1,9 +1,7 @@
 {
     "personal": {
         "datos_personales": {
-            "fecha_nacimiento": "13-11-1809",
-            "nacionalidade": "irlandesa",
-            "correo_electronico":"asuamig.sansus3@gmail.com",
+                        "correo_electronico":"asuamig.sansus3@gmail.com",
             "numero_telefono": "666666666",
             "linkedin": "https://es.wikipedia.org/wiki/Amblyrhynchus_cristatus",
             "direccion": "Santiago de Compostela, A Coruña, Galicia"
