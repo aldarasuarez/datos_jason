@@ -6,5 +6,14 @@
             "linkedin": "AldaraSuarez",
             "direccion": "Santiago de Compostela, A Coruña, Galicia"
         }
+    },
+
+    "idiomas": {
+        "nivel_idiomas":{
+            "galego": "nativo",
+            "castelan": "nativo",
+            "irlandés": "nativo",
+            "inglés": "nativo"
+        }
     }
 }
